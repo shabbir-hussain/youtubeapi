@@ -1,0 +1,5 @@
+Status Report
+=============
+improve query error handling
+get multiple queries
+add today's date to the query

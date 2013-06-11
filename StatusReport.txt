@@ -1,0 +1,11 @@
+Status Report
+=============
+improve query error handling
+add playhighlighted video
+add get previous date video
+add response to remote control
+make graphics smoother
+
+--add highlighting
+--get multiple queries
+--add today's date to the query
